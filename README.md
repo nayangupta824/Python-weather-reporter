@@ -6,4 +6,4 @@ The application uses the “openweathermaps” API to fetch the weather data of 
 
 Application has two python files first is used to implement the GUI (final.py) and second is used to fetch data from “openweathermaps” API (weather.py). The code of each is given below.
 
-"The Zipped file contains the whole app .. with data files ... images ... code"
+"The Zipped file contains the whole app .. with data files .. images ... code"
